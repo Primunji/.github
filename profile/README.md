@@ -22,8 +22,8 @@
 **3. 시나리오 생성:** 모든 사용자는 인물 설정과 내용을 작성하면 LLM이 프롬포트를 생성하여 자신만의 시나리오를 생성하고 공유 할 수 있습니다.
 
 ## 팀원
-**김강연 (Front-End)** <br>
-**박민주 (Front-End, Design)** <br>
-**이기찬 (Back-End)** <br>
-**이상은 (Back-End, AI)**
+**김강연 (Front-End):** https://github.com/rkdduss<br>
+**박민주 (Front-End, Design):** https://github.com/alswn848 <br>
+**이기찬 (Back-End):** https://github.com/socury<br>
+**이상은 (Back-End, AI)** https://github.com/ingrsso
 
